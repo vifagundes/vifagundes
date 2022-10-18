@@ -4,7 +4,7 @@
 
 - 😀 I’m 22 years old
 - 📌 I’m from Novo Hamburgo, Rio Grande do Sul
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Full Stack development
 
 - 📫 How to reach me **viniblauthf@gmail.com**
 

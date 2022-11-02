@@ -4,7 +4,7 @@
 
 - 😀 I’m 22 years old
 - 📌 I’m from Novo Hamburgo, Rio Grande do Sul
-- 🌱 I’m currently learning Front-end development
+- 🌱 I’m currently learning Back-end with Java development
 
 - 📫 How to reach me **viniblauthf@gmail.com**
 

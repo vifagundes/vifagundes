@@ -4,7 +4,7 @@
 
 - 😀 I’m 22 years old
 - 📌 I’m from Novo Hamburgo, Rio Grande do Sul
-- 🌱 I’m currently learning Back-end development with Java with Spirng framework and MySQL data base.
+- 🌱 I’m currently learning Back-end development with Java with Spirng framework and SQL data base.
 
 - 📫 How to reach me **viniblauthf@gmail.com**
 

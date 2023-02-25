@@ -9,10 +9,10 @@
 - 📫 How to reach me **viniblauthf@gmail.com**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vifagundes&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vifagundes&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vifagundes&repo=convoychat&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vifagundes&theme=highcontrast" />
 </a>
 
 <h3 align="left">Connect with me:</h3>

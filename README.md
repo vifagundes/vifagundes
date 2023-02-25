@@ -4,7 +4,7 @@
 
 - 😀 I’m 22 years old
 - 📌 I’m from Novo Hamburgo, Rio Grande do Sul
-- 🌱 I’m currently learning Java and MySQL data base.
+- 🌱 I’m currently learning .Net, Angular and MySQL data base.
 
 - 📫 How to reach me **viniblauthf@gmail.com**
 

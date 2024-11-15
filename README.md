@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinícius Fagundes</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h3 align="center">A passionate Data Engineer from Brazil</h3>
 
-- 🌱 I’m currently learning **.Net and Angular**
-
-- 📫 How to reach me **viniblauthf@gmail.com**
+- 📫 How to reach me **viniblauthfagundes@gmail.com**
 
 <h3>Connect with me:</h3>
 <p><a href="https://linkedin.com/in/viniciusbfagundes" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viniciusbfagundes" height="30" width="40" /></a></p>
